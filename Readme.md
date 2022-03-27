@@ -42,7 +42,7 @@ Es una lista ordenada de todas las características, funcionalidades, requisitos
 Es el conjunto de los elementos del Product Backlog seleccionados para el Sprint y es la predicción hecha por el Development Team acerca de qué funcionalidad(es) formarán parte del próximo Incremento y del trabajo necesario para entregar dichas funcionalidades.
 
 - **Incremento**
-![incremento](/image/sprintbacklog.png)
+![incremento](/image/spintbacklog.png)
 *Historias de usuario en "done"*
 El Incremento es la suma de todos los elementos del Product Backlog completados durante un Sprint y el valor de los incrementos de todos los Sprints anteriores. Al final de un Sprint el nuevo Incremento debe estar “Terminado” o "Done", lo cual significa que está en condiciones de ser utilizado.
 El incremento es un paso hacia una visión o meta. El incremento debe estar en condiciones de utilizarse sin importar si el Product Owner, decide liberarlo o no.
