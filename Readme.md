@@ -31,4 +31,4 @@ Es un equipo multifuncional que se encarga de construir los incrementos de produ
 
 - **Product Backlog**
 
-![product_backlog](/image/product_backlog.png)
+![product_backlog](/image/product%20backlog.png)
